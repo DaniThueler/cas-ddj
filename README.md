@@ -1,2 +1,0 @@
-# cas-ddj
-CAS Datenjournalismus
