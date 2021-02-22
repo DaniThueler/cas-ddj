@@ -1,4 +1,4 @@
-![Image](1.0.Landwirtschaft/kuh.jpeg?raw=true)
+![Image](kuh.jpeg?raw=true)
 # Entwicklungen in der Schweizer und der Schaffhauser Landwirtschaft
 Analyse von landwirtschaftlichen Daten des Bundesamts für Statistik für den Zeitraum 2000–2019
 
