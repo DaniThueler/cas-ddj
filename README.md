@@ -58,15 +58,15 @@ akjfölaskjföaslkjföaslkfj alkfjölakjföaslkjf
 #### Titel Folge 1: "Immer mehr Bauernhöfe verschwinden"
 Lead: "Die Anzahl der Bauernhöfe nimmt rasant ab, dafür werden sie immer grösser. Gleichzeitig wird die Nutzfläche von immer weniger Beschäftigten "beackert". Besonders betroffen sind Hallau, Beggingen, Merishausen, Neuhausen am Rheinfall und Buch."
 
-![Image](1.0.Landwirtschaft/Rueckgang_LW_SH.png?raw=true)
-![Image](1.0.Landwirtschaft/Beschäftigung_SH.png?raw=true)
+![Image](1.png?raw=true)
+![Image](2.png?raw=true)
 #### Titel Folge 2: "Wenig 'Bio' bei der Schaffhauser Landwirtschaft"
 Lead: Im Vergleich mit anderen Kantonen gehört die Schaffhauser Landwirtschaft in Sachen "Bio" zu den Schlusslichtern. Das sind die Gründe dafür und das will der Kanton dagegen tun.  
 
-![Image](1.0.Landwirtschaft/Biobetriebe_Kantone.png?raw=true)
-![Image](1.0.Landwirtschaft/Bio.png?raw=true)
+![Image](3.png?raw=true)
+![Image](4.png?raw=true)
 #### Titel Folge 3: "Alles is(s)t Huhn"
 Lead: "Der Fleischkonsum pro Kopf ist in der Schweiz zwar rückläufig, trotzdem stagniert die Zahl der in der Landwirtschaft gehaltenen Tiere. Die grosse Ausnahme ist das Geflügel, dessen Bestände stark wachsen. "Bio" ist das wenigste davon."  
 
-![Image](1.0.Landwirtschaft/Tierhaltung_CH.png?raw=true)
-![Image](1.0.Landwirtschaft/biohuhn.png?raw=true)
+![Image](5.png?raw=true)
+![Image](6.png?raw=true)
