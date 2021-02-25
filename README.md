@@ -31,7 +31,7 @@ Der Aufwand fürs Coden beträgt 2–3 Arbeitstage. Die Entwicklungen in der Lan
 - Die Datenaktualisierung auf 2020 ist noch nicht erfolgt, was aber bald geschehen soll – eine Publikation macht erst dann Sinn.
 
 ## Zusammenfassung Briefing-Gespräch
-akjfölaskjföaslkjföaslkfj alkfjölakjföaslkjf
+Ich führte dieses mit Markus Leumann, dem Leiter des Schaffhauser Landwirtschaftsamts. Er bestätigte mir, dass viele meiner Thesen zutreffen dürften. Als er dann einige meiner Grafiken sah, sagte er, dass es ihm neu sei, dass sich die Zahlen sogar auf die Gemeinden herunterbrechen lassen. Wir haben in der Folge den Deal gemacht, dass er mir im Frühling die aktualisierten sowie teils detalierteren Zahlen zur Verfügung stellt, wenn ich ihm einige Auswertungen – die ich sowieso für meine Serie benötige – zur Verfügung stelle.
 
 ## Verwendete Datensätze
 - LW-Daten: BFS "Beschäftigte, Landwirtschafliche Betriebe, Landwirtschaftliche Nutzfläche (LN) und Nutztiere auf Klassifizierungsebene 1 nach institutionellen Gliederungen" [Link](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/daten.assetdetail.12727132.html)
